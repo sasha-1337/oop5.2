@@ -1,0 +1,8 @@
+﻿  oop5_2.cpp
+D:\Student\oop5.2\oop5.2\oop5_2.cpp(35,1): warning C4297: D2: ожидается, что функция не будет выдавать исключения, но она это делает
+D:\Student\oop5.2\oop5.2\oop5_2.cpp(35,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+D:\Student\oop5.2\oop5.2\oop5_2.cpp(39,65): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop5.2\oop5.2\oop5_2.cpp(46,66): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop5.2\oop5.2\oop5_2.cpp(53,66): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop5.2\oop5.2\oop5_2.cpp(60,64): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  oop5.2.vcxproj -> D:\Student\oop5.2\Debug\oop5.2.exe
